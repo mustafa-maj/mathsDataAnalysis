@@ -23,7 +23,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.naive_bayes import GaussianNB
 from sklearn import svm
 
-# Reading the file
+# Reading the file MathsData
 
 csv = pd.read_csv('MathsData.csv')
 
